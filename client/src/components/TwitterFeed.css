@@ -1,0 +1,17 @@
+.Twitter-feed-container {
+    padding: 5px;
+    margin: 10px;
+    border: solid 1px;
+    width: 20vw;
+    height: 50vh;
+    overflow-y: auto;
+}
+
+.Twitter-feed-tweet {
+    margin: 10px;
+    text-align: start;
+}
+
+.Twitter-feed-delete {
+    text-align: right !important;
+}
